@@ -6,7 +6,7 @@ Despliegue de la aplicación de microservicios **Online Boutique** (demo de Goog
 
 ![Diagrama de arquitectura](docs/Diagrama-AWS.png)
 
-El diagrama editable (draw.io) está disponible en [`docs/diagrama-arquitectura.drawio`](docs/diagrama-arquitectura.drawio).
+El diagrama editable (draw.io) está disponible en [`docs/Diagrama-AWS.drawio`](docs/Diagrama-AWS.drawio).
 
 La solución despliega:
 
