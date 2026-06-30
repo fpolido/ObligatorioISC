@@ -37,7 +37,7 @@ cd ObligatorioISC
 ### 2. Configurar las variables
 
 ```bash
-cp terraform.tfvars.example variables.tfvars
+cp variables.tfvars.example variables.tfvars
 ```
 
 Editar `variables.tfvars` y completar:
